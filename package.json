@@ -1,0 +1,19 @@
+{
+  "name": "version",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "lockfileVersion",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikebird2414/09-Node.js-Homework-Professional-README-Generator.git"
+  },
+  "author": "Mikebird2414",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikebird2414/09-Node.js-Homework-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/mikebird2414/09-Node.js-Homework-Professional-README-Generator#readme"
+}
